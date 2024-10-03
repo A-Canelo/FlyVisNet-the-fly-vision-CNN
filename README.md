@@ -1,5 +1,5 @@
 # FlyVisNet
-This repository contains the essential code used to generate the primary results and conduct the simulations in: "FlyVisNet – An insect vision-inspired artificial neural network for the control of a nano drone".
+This repository contains the essential code used to generate the primary results and conduct the simulations in: "FlyVisNet – An insect vision-inspired artificial neural network for drone navigation".
 
 FlyVisNet is an artificial neural network (ANN) that mimics the visual system of fruit fly *Drosophila* and performs pattern recognition. It classifies images in the classes loom, bar, and spot.
 The first part of the repository describes the files necessary to generate the primary results of the study. The second part explains the deployment process for embedding FlyVisNet in the Crazyflie drone.
