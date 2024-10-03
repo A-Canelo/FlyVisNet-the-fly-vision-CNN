@@ -37,7 +37,7 @@ The necessary components for deployment are as follow:
 - Flow deck v2
 - AI deck 1.1
 
-<img src="https://github.com/nisl-hyu/FlyVisNet/blob/main/images/necessary_components.jpg" width=40% height=40%>
+<img src="https://github.com/A-Canelo/FlyVisNet-the-fly-vision-CNN/blob/main/images/necessary_components.jpg" width=40% height=40%>
 
 Instructions for deployment on *crazyflie 2.1* and *ai-deck*:
 - Download *bitcraze-vm* https://github.com/bitcraze/bitcraze-vm/releases
