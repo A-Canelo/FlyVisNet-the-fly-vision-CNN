@@ -1,0 +1,11 @@
+set debug true
+show
+adjust
+
+set input_norm_func "x:x/255"
+aquant samples/* --scheme SQ8
+fusions --scale8
+
+# --- RUN INFERENCE ---
+qerror samples/*
+save_state
