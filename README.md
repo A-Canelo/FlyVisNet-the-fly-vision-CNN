@@ -46,7 +46,7 @@ https://github.com/bitcraze/aideck-gap8-examples <br/>
 https://github.com/bitcraze/crazyflie-firmware
 - Substitute the folder *classification* in `aideck-gap8-examples/examples/ai/` by the provided by us in `deployment/classification`
 - Make a folder with name `samples` inside the folder `classification`.
-- From the generated test dataset .mat file, save the frames as .jpg and put them in the `samples` folder. You need to share a folder from your PC to the VM to pass those frames.
+- From the generated test dataset .mat file, save the frames as .jpg and put them in the `samples` folder. You need to share a folder from your PC to the VM to pass those frames. 
 - Put the generated `WEIGHTS/classification_q.tflite` in `aideck-gap8-examples/examples/ai/classification/model/`
 
 - Build and flash on *ai-deck* GAP8. In folder `aideck-gap8-examples`:
